@@ -1,6 +1,7 @@
 language: gogo:
  - 1.1
- - 1.0env:
+ - 1.0
+ env:
  global:
    - foo=bar
    - foo1=bar1
